@@ -13,7 +13,7 @@ nmap -sC -sV 10.10.10.37
 ```
 
 ### Nmap Results:
-
+```
 Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-11-03 14:39 IST
 Stats: 0:00:02 elapsed; 0 hosts completed (1 up), 1 undergoing Connect Scan
 Connect Scan Timing: About 5.05% done; ETC: 14:40 (0:00:38 remaining)
@@ -35,6 +35,7 @@ Service Info: Host: 127.0.1.1; OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 18.36 seconds
+```
 
 The HTTP service redirected to `http://blocky.htb`, suggesting a hostname requirement.
 
