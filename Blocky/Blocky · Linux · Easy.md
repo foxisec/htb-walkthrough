@@ -1,5 +1,5 @@
 # Walkthrough: Blocky HTB Machine
-!{Blocky.png}
+![Blocky.png]
 **Target IP Address**: `10.10.10.37`  
 **Difficulty**: Easy  
 **Tools Used**: Nmap, WPScan, JD-GUI, SSH
