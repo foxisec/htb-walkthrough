@@ -1,4 +1,6 @@
+# Walkthrough: Active HTB Machine
 
+![Active](Active.png)
 
 We started by running a comprehensive Nmap scan to identify open ports and gather detailed information about the target, **10.10.10.100**.
 ```bash
